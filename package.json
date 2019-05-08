@@ -29,6 +29,7 @@
     "prop-types": "^15.5.10"
   },
   "peerDependencies": {
+    "react": ">= 16.5",
     "react-native": ">= 0.25"
   },
   "author": "Watcharachai Kanjaikaew (https://github.com/thegamenicorus)",
