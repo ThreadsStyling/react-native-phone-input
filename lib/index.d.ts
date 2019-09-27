@@ -10,7 +10,7 @@ export interface PhoneInputProps {
   flagStyle?: object;
   textStyle?: object;
   textProps?: TextInputProps;
-  textComponent?: React.ReactElement;
+  textComponent?: React.ComponentType;
   offset?: number;
   pickerButtonColor?: string;
   pickerBackgroundColor?: string;
