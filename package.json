@@ -1,6 +1,6 @@
 {
   "name": "@threads/react-native-phone-input",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "Phone input box for React Native",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
